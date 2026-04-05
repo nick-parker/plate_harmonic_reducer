@@ -18,7 +18,7 @@ The [tri-contact variant](https://doi.org/10.1109/TMECH.2025.3628311) from the s
 
 ## Why sheet metal everything?
 
-This is inspired by [Peter Holderith](https://twitter.com/baldtires), who has been developing quick-turn sheet metal forming with 3D-printed dies as a service. The design constraint is: **the only precision operations are rotationally symmetric turning and sheet metal forming with printed tooling.** No surface milling, no wire EDM, no gear cutting. If you have a manual lathe, a 3D printer, and a press, you can make this reducer.
+This is inspired by [Peter Holderith](https://twitter.com/_baldtires), who has been developing quick-turn sheet metal forming with 3D-printed dies as a service. The design constraint is: **the only precision operations are rotationally symmetric turning and sheet metal forming with printed tooling.** No surface milling, no wire EDM, no gear cutting. If you have a manual lathe, a 3D printer, and a press, you can make this reducer.
 
 Both the fixed tooth plate (flex spline) and the output tooth plate are formed sheet metal. This is admittedly silly for the output gear — if you own a 3-axis mill, just machine it. But the point is to explore how far sheet metal forming can go as a fabrication strategy for mechanism components.
 
