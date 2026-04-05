@@ -1,0 +1,23 @@
+﻿"teeth"= 30
+
+"tooth_height"=1
+
+"tooth_width"= 4
+
+"pitch_d"= 42
+
+"web_thickness"= 0.5
+
+"psi"= 35
+
+"gap_fraction"= 0.5
+
+"tooth_fillet"= 0.5
+
+"flex_teeth"= 32
+
+"output_gap_fraction"= ( 1 - "gap_fraction" ) * "teeth" / "flex_teeth"
+
+"generator_bearing_angle" = 16
+
+"z_gap" = 0.25
