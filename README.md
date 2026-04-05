@@ -6,6 +6,8 @@ A 15:1 plate harmonic reducer where every non-turned part is formed sheet metal,
 
 ![Cross section](color%20coded%20cross.png)
 
+![Wave plates](formed%20wave%20plates.png)
+
 **Red** = fixed housing + fixed tooth plate (flex spline, 32 teeth). **Blue** = wave generator (input, rides on the motor). **Green** = output gear (30 teeth).
 
 ## What is a plate harmonic reducer?
