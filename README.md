@@ -12,7 +12,7 @@ A 15:1 plate harmonic reducer where every non-turned part is formed sheet metal,
 
 ## What is a plate harmonic reducer?
 
-A [plate harmonic reducer](https://doi.org/10.1109/IROS47612.2022.9982085) flattens the conventional cup-shaped flex spline into a thin plate and deforms it axially instead of radially. Same reduction principle (R = Zf/(Zf - Zc)), dramatically lower deformation forces, and — critically for this project — the flex spline is now a flat disc that can be stamped from sheet metal.
+A [plate harmonic reducer](https://doi.org/10.1109/IROS47612.2022.9981317) flattens the conventional cup-shaped flex spline into a thin plate and deforms it axially instead of radially. Same reduction principle (R = Zf/(Zf - Zc)), dramatically lower deformation forces, and — critically for this project — the flex spline is now a flat disc that can be stamped from sheet metal.
 
 The [tri-contact variant](https://doi.org/10.1109/TMECH.2025.3628311) from the same Seoul National University group showed these can operate at low reduction ratios (10:1–30:1) where conventional harmonic drives struggle, with competitive efficiency and backlash. Our design uses a two-contact (two-lobe) wave generator at 32/30 teeth for a 15:1 ratio.
 
@@ -48,6 +48,6 @@ Both the fixed tooth plate (flex spline) and the output tooth plate are formed s
 
 ## References
 
-1. S. You, J. Jung, E. Sung, and J. Park, "Plate Harmonic Reducer with a Profiled Groove Wave Generator," *IEEE/RSJ IROS*, 2022. [DOI: 10.1109/IROS47612.2022.9982085](https://doi.org/10.1109/IROS47612.2022.9982085)
+1. S. You, J. Jung, E. Sung, and J. Park, "Plate Harmonic Reducer with a Profiled Groove Wave Generator," *IEEE/RSJ IROS*, 2022. [DOI: 10.1109/IROS47612.2022.9981317](https://doi.org/10.1109/IROS47612.2022.9981317) | [pdf](http://dyros.snu.ac.kr/wp-content/uploads/2022/11/76347-3462.pdf?ckattempt=1)
 
 2. S. You, E. Sung, D. Kim, J. Kim, and J. Park, "Semidirect Drive Based on Tri-Contacted Plate Harmonic Reducer," *IEEE/ASME Trans. Mechatronics*, 2025. [DOI: 10.1109/TMECH.2025.3628311](https://doi.org/10.1109/TMECH.2025.3628311)
